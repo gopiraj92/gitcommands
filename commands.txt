@@ -1,0 +1,4 @@
+git init
+ - initializing git
+git add -A
+ - adding all changes to staging area
